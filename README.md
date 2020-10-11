@@ -29,7 +29,7 @@
 <p align="center">一个神奇的工具箱，拿回你的个人信息。</p>
 <p align="center">👉⚡<a href="https://infospider.vercel.app/">使用说明</a> ⚡| <a href="https://www.bilibili.com/video/BV14f4y1R7oF/">视频演示</a> | <a href="https://github.com/kangvcar/InfoSpider/blob/master/README_EN.md">English</a></p>
 
-### 开发者回忆录
+### 开发者回忆录，这个只是属于个人的发行版
 <details>
 <summary>点击展开👉 开发者回忆录</summary>
 
