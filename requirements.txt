@@ -6,7 +6,7 @@ openpyxl==3.0.4
 nltk==3.5
 pyquery==1.4.0
 lxml==4.3.3
-requests==2.22.0
+requests==2.31.0
 numpy==1.18.1
 tqdm==4.47.0
 wxPython==4.0.7
